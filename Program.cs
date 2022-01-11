@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Zabawa
+namespace Nauka
 {
     class Program
     {
